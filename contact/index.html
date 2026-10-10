@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Contact | Krishang</title>
+	<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="../">Home</a></li>
+			<li><a href="../projects/">Projects</a></li>
+			<li><a href="../resume/">Resume</a></li>
+			<li><a href="./" class="current">Contact</a></li>
+			<li><a href="https://github.com/krishang2006" target="_blank">GitHub</a></li>
+		</ul>
+	</nav>
+
+	<h1>Contact me</h1>
+
+	<form action="mailto:krishangkhandelwal2006@gmail.com" method="POST" enctype="text/plain">
+		<label>
+			Email:
+			<input type="email" name="email" required>
+		</label>
+		<label>
+			Subject:
+			<input type="text" name="subject" required>
+		</label>
+		<label>
+			Message:
+			<textarea name="body" rows="5" required></textarea>
+		</label>
+		<button type="submit">Send</button>
+	</form>
+</body>
+</html>
