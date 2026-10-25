@@ -105,9 +105,43 @@ form {
     grid-row: span 3;
     gap: 0.5em;
 
-    h2 {
+    h2, h3 {
       margin: 0;
     }
+
+    .year {
+      margin: 0;
+      color: oklch(55% 0% 0);
+      font-family: Baskerville, Georgia, serif;
+      font-variant-numeric: oldstyle-nums;
+    }
+  }
+}
+
+/* ===== GitHub stats (Lab 4 Step 3) ===== */
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5em 1em;
+  margin: 0;
+  padding: 1em;
+  border: 1px solid oklch(50% 10% 200 / 40%);
+  border-radius: 0.5em;
+  text-align: center;
+
+  dt {
+    grid-row: 1;
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: oklch(55% 0% 0);
+  }
+
+  dd {
+    grid-row: 2;
+    margin: 0;
+    font-size: 200%;
+    font-weight: bold;
   }
 }
 

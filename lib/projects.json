@@ -1,0 +1,74 @@
+[
+  {
+    "title": "DSC 106 Lab 1: Introduction to the Web Platform",
+    "year": 2026,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Built the first version of this portfolio site with semantic HTML: a home page, a projects page, a contact form, and a resume page, all published on GitHub Pages."
+  },
+  {
+    "title": "DSC 106 Lab 2: Styling with CSS",
+    "year": 2026,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Styled the portfolio with a responsive navigation bar, CSS grid and subgrid for the project cards, and an accent color system using oklch."
+  },
+  {
+    "title": "DSC 106 Lab 3: Introduction to JavaScript",
+    "year": 2026,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Generated the navigation menu with JavaScript, added a light/dark/automatic theme switcher persisted in localStorage, and improved the contact form submission."
+  },
+  {
+    "title": "DSC 106 Lab 4: JavaScript II",
+    "year": 2026,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Moved project data into a JSON file, rendered it with reusable fetchJSON and renderProjects modules, and displayed live GitHub profile stats from the GitHub API."
+  },
+  {
+    "title": "DSC 106 Project 1: Expository Visualization",
+    "year": 2026,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Designed a clear, honest visualization that explains a single insight from a dataset, with a written rationale for the encoding and design choices."
+  },
+  {
+    "title": "DSC 106 Project 2: Persuasive & Deceptive Visualization",
+    "year": 2026,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Group project using the IMF Climate Change Indicators dataset on forests and carbon: one earnest and one deceptive chart of the same data, plus a write-up on the rhetorical techniques used."
+  },
+  {
+    "title": "NBA 2-for-1 Possession Analysis",
+    "year": 2026,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Independent sports data science project analyzing end-of-quarter 2-for-1 strategy in the NBA using play-by-play data and a custom data pipeline."
+  },
+  {
+    "title": "Soccer Expected Goals (xG) Model",
+    "year": 2025,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Trained a machine learning model to estimate the probability a shot results in a goal from shot location, angle, and context features."
+  },
+  {
+    "title": "Real-Time ML Inference for Semiconductor Testing",
+    "year": 2025,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "AI/ML App Development Engineer internship at Advantest America on the Advantest Cloud Solutions team, building real-time machine learning inference applications."
+  },
+  {
+    "title": "Podcast Intelligence Prototype",
+    "year": 2025,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Prototype that transcribes and summarizes podcast episodes with language models to surface key insights and topics automatically."
+  },
+  {
+    "title": "Stock Volatility Analysis",
+    "year": 2025,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "COGS 108 group project modeling and visualizing stock market volatility with Python, presented as a recorded video report."
+  },
+  {
+    "title": "Poker Decision-Making Observational Study",
+    "year": 2024,
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "COGS 13 observational research report analyzing slowdowns and efficiency breakdowns across 253 hands of poker using pandas."
+  }
+]
